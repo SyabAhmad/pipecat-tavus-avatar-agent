@@ -1,5 +1,2 @@
 pipecat-ai[daily,deepgram,cartesia,openai,silero,tavus]
-
-# aiortc>=1.11.0 # fixes no decoder found for MIME type video/rtx retransmission
-
 python-dotenv~=1.0
