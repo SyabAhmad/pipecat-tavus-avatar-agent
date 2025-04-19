@@ -44,3 +44,9 @@ python tavus_agent.py
 ```
 
 Then, from the logs in above, find and copy the `URL` of the room and paste it into your browser. It should look something like: `Joining https://tavus.daily.co/<room-id>`. Follow that link in the browser to join the room and begin speaking with your avatar.
+
+
+## References
+
+- [Pipecat AI Documentation](https://docs.pipecat.ai/server/services/video/tavus)
+- [Pipecat AI GitHub Example](https://github.com/pipecat-ai/pipecat/blob/main/examples/foundational/21-tavus-layer.py)
