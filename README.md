@@ -43,4 +43,4 @@ Run the following command to start the agent:
 python tavus_agent.py
 ```
 
-Then, from the logs in above run, copy the `URL` of the room and paste it into your browser. It should look something like: Joining https://tavus.daily.co/xxxxx. Follow that link in the browser to join the room and begin speaking with your avatar.
+Then, from the logs in above, find and copy the `URL` of the room and paste it into your browser. It should look something like: `Joining https://tavus.daily.co/<room-id>`. Follow that link in the browser to join the room and begin speaking with your avatar.
